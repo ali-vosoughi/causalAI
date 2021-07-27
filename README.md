@@ -1,6 +1,7 @@
-# Codes for nonlinear Granger causality (lsNGC)
- Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data
-
+# Welcome to the homepage of Ali Vosoughi
+ Please visit my official website at alivosoughi.com
+ 
+ 
 ## Background
 Identifying nonlinear and directed relations between components of a complex system, especially from simultaneously observed time series, is an actively growing area of research. By modeling interactions with nonlinear state-space transformations from limited observational data, lsNGC identifies casual relations with no explicit a priori assumptions on functional interdependence between component time series in a computationally efficient manner.
 
