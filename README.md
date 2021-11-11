@@ -1,6 +1,3 @@
 # Ali Vosoughi
-به صفحه خوش آمدید. 
 
-در این کانال سعی خواهم کرد که مطالب جدید را به فارسی ارایه بدهم. 
-در صورتی که تمایل داشته باشید می توانید به وبسایت انگیسی من در زیر مراجعه بفرمایید. 
-alivosoughi.com
+Please visit www.alivosoughi.com for more information. 
